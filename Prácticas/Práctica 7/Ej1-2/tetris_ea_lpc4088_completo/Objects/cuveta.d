@@ -1,0 +1,13 @@
+.\objects\cuveta.o: cuveta.c
+.\objects\cuveta.o: cuveta.h
+.\objects\cuveta.o: error.h
+.\objects\cuveta.o: tipos.h
+.\objects\cuveta.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+.\objects\cuveta.o: pieza.h
+.\objects\cuveta.o: glcd.h
+.\objects\cuveta.o: sdram.h
+.\objects\cuveta.o: font.h
+.\objects\cuveta.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\cuveta.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\objects\cuveta.o: bloque.h
+.\objects\cuveta.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h

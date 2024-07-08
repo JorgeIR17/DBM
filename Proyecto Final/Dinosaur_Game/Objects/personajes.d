@@ -1,0 +1,13 @@
+.\objects\personajes.o: personajes.c
+.\objects\personajes.o: personajes.h
+.\objects\personajes.o: joystick.h
+.\objects\personajes.o: tipos.h
+.\objects\personajes.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+.\objects\personajes.o: bloque.h
+.\objects\personajes.o: glcd.h
+.\objects\personajes.o: sdram.h
+.\objects\personajes.o: font.h
+.\objects\personajes.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\personajes.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\objects\personajes.o: error.h
+.\objects\personajes.o: sonido.h

@@ -1,0 +1,9 @@
+.\objects\bloque.o: bloque.c
+.\objects\bloque.o: bloque.h
+.\objects\bloque.o: tipos.h
+.\objects\bloque.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+.\objects\bloque.o: glcd.h
+.\objects\bloque.o: sdram.h
+.\objects\bloque.o: font.h
+.\objects\bloque.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\bloque.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
